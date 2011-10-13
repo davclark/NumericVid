@@ -1,0 +1,1088 @@
+2011-05-02 15:42:57,162 (6481) INFO: Script ./numeric_questions_fast.py started Vision Egg 1.2.1 with process id 6481.
+2011-05-02 15:42:57,830 (6481) INFO: No Vision Egg logo :( because of error while trying to display image in GUI.GraphicsConfigurationWindow: <type 'exceptions.ImportError'>: No module named _imagingtk
+2011-05-02 15:43:10,011 (6481) INFO: Requesting window 1024 x 768 24 bpp (8 8 8 0 RGBA).
+2011-05-02 15:43:10,753 (6481) INFO: OpenGL 2.1 Mesa 7.10, Gallium 0.4 on AMD RS780, X.Org (PyOpenGL 3.0.1b2)
+2011-05-02 15:43:10,755 (6481) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2011-05-02 15:43:10,755 (6481) WARNING: Could not sync buffer swapping to vblank because you are running linux but not known/supported drivers (only nVidia and recent Mesa DRI Radeon currently supported).
+2011-05-02 15:45:03,130 (6616) INFO: Script ./numeric_questions_fast.py started Vision Egg 1.2.1 with process id 6616.
+2011-05-02 15:45:12,493 (6616) INFO: Requesting window 1024 x 768 24 bpp (8 8 8 0 RGBA).
+2011-05-02 15:45:12,884 (6616) INFO: OpenGL 2.1 Mesa 7.10, Gallium 0.4 on AMD RS780, X.Org (PyOpenGL 3.0.1b2)
+2011-05-02 15:45:12,884 (6616) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2011-05-02 15:45:12,884 (6616) WARNING: Could not sync buffer swapping to vblank because you are running linux but not known/supported drivers (only nVidia and recent Mesa DRI Radeon currently supported).
+2011-05-02 15:45:49,219 (6616) WARNING: Calculated frames per second was 58.968, while the VISIONEGG_MONITOR_REFRESH_HZ variable is 60.0.
+2011-05-02 15:45:49,220 (6616) WARNING: One or more frames took 54.4 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2011-05-02 15:45:49,223 (6616) INFO: 2137 frames were drawn.
+Mean IFI was 16.96 msec (58.97 fps), longest IFI was 54.45 msec.
+histogram:
+  1610                                              *                     
+  1431                                              *                     
+  1252                                              *                     
+  1073                                              *                     
+   895                                              *                     
+   716                                              *                     
+   537                                              *                     
+   358                                              *                     
+   179                                              *                     
+     0                     *    *    *    *    *    *    *    *    *    * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    2    12   3    44  118  +++   82   22   8    56 
+
+2011-05-02 15:49:53,792 (6864) INFO: Script ./numeric_questions_fast.py started Vision Egg 1.2.1 with process id 6864.
+2011-05-02 15:50:54,106 (6864) INFO: Requesting window 1024 x 768 24 bpp (8 8 8 0 RGBA).
+2011-05-02 15:50:54,481 (6864) INFO: OpenGL 2.1 Mesa 7.10, Gallium 0.4 on AMD RS780, X.Org (PyOpenGL 3.0.1b2)
+2011-05-02 15:50:54,482 (6864) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2011-05-02 15:50:54,482 (6864) WARNING: Could not sync buffer swapping to vblank because you are running linux but not known/supported drivers (only nVidia and recent Mesa DRI Radeon currently supported).
+2011-05-02 15:51:15,885 (6977) INFO: Script ./numeric_questions_fast.py started Vision Egg 1.2.1 with process id 6977.
+2011-05-02 15:51:28,525 (6977) INFO: Requesting window 1024 x 768 24 bpp (8 8 8 0 RGBA).
+2011-05-02 15:51:28,736 (6977) INFO: OpenGL 2.1 Mesa 7.10, Gallium 0.4 on AMD RS780, X.Org (PyOpenGL 3.0.1b2)
+2011-05-02 15:51:28,736 (6977) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2011-05-02 15:51:28,737 (6977) WARNING: Could not sync buffer swapping to vblank because you are running linux but not known/supported drivers (only nVidia and recent Mesa DRI Radeon currently supported).
+2011-05-02 15:52:18,268 (6977) WARNING: Calculated frames per second was 59.093, while the VISIONEGG_MONITOR_REFRESH_HZ variable is 60.0.
+2011-05-02 15:52:18,269 (6977) WARNING: One or more frames took 49.8 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2011-05-02 15:52:18,272 (6977) INFO: 2923 frames were drawn.
+Mean IFI was 16.92 msec (59.09 fps), longest IFI was 49.77 msec.
+histogram:
+  2285                                              *                     
+  2031                                              *                     
+  1777                                              *                     
+  1523                                              *                     
+  1270                                              *                     
+  1016                                              *                     
+   762                                              *                     
+   508                                              *                     
+   254                                              *                     
+     0                     *    *    *    *    *    *    *    *    *    * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    2    6    6    52  131  +++   92   23   7    64 
+
+2011-05-02 15:52:48,446 (6991) INFO: Script ../../../NumericMemory/pilot3/numeric_questions.py started Vision Egg 1.2.1 with process id 6991.
+2011-05-02 15:52:49,404 (6991) INFO: Requesting window 1024 x 768 24 bpp (8 8 8 0 RGBA).
+2011-05-02 15:52:49,621 (6991) INFO: OpenGL 2.1 Mesa 7.10, Gallium 0.4 on AMD RS780, X.Org (PyOpenGL 3.0.1b2)
+2011-05-02 15:52:49,622 (6991) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2011-05-02 15:52:49,622 (6991) WARNING: Could not sync buffer swapping to vblank because you are running linux but not known/supported drivers (only nVidia and recent Mesa DRI Radeon currently supported).
+2011-05-02 15:53:14,213 (6991) CRITICAL: Traceback (most recent call last):
+  File "../../../NumericMemory/pilot3/numeric_questions.py", line 273, in <module>
+    main(*argv[1:])
+  File "../../../NumericMemory/pilot3/numeric_questions.py", line 264, in main
+    stim_control.run_trials()
+  File "/home/dav/Projects/NumericMemory/pilot3/cognac/StimController.py", line 272, in run_trials
+    self.vision_egg.go()
+  File "/home/dav/Projects/NumericMemory/pilot3/cognac/SimpleVisionEgg.py", line 97, in go
+    self.presentation.go()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 391, in go
+    doing_transition=0)
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 275, in __call_controllers
+    result = controller.during_go_eval()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 1247, in during_go_eval
+    return self.during_go_func(**call_args)
+  File "/home/dav/Projects/NumericMemory/pilot3/cognac/StimController.py", line 290, in update
+    self.state.send(t)
+  File "/home/dav/Projects/NumericMemory/pilot3/cognac/StimController.py", line 312, in state_generator
+    trial.log_response(t)
+  File "/home/dav/Projects/NumericMemory/pilot3/cognac/StimController.py", line 231, in log_response
+    self.curr_response.record_response(t):
+  File "../../../NumericMemory/pilot3/numeric_questions.py", line 130, in record_response
+    responses = pygame.event.get(pygame.KEYDOWN)
+KeyboardInterrupt
+
+2011-05-02 15:53:31,812 (7005) INFO: Script ../../../NumericMemory/pilot2/numeric_questions.py started Vision Egg 1.2.1 with process id 7005.
+2011-05-02 15:53:35,252 (7005) INFO: Requesting window 1024 x 768 24 bpp (8 8 8 0 RGBA).
+2011-05-02 15:53:35,480 (7005) INFO: OpenGL 2.1 Mesa 7.10, Gallium 0.4 on AMD RS780, X.Org (PyOpenGL 3.0.1b2)
+2011-05-02 15:53:35,481 (7005) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2011-05-02 15:53:35,481 (7005) WARNING: Could not sync buffer swapping to vblank because you are running linux but not known/supported drivers (only nVidia and recent Mesa DRI Radeon currently supported).
+2011-05-02 15:53:57,111 (7005) CRITICAL: Traceback (most recent call last):
+  File "../../../NumericMemory/pilot2/numeric_questions.py", line 273, in <module>
+    main(*argv[1:])
+  File "../../../NumericMemory/pilot2/numeric_questions.py", line 264, in main
+    stim_control.run_trials()
+  File "/home/dav/Projects/NumericMemory/pilot2/cognac/StimController.py", line 272, in run_trials
+    self.vision_egg.go()
+  File "/home/dav/Projects/NumericMemory/pilot2/cognac/SimpleVisionEgg.py", line 97, in go
+    self.presentation.go()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 391, in go
+    doing_transition=0)
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 275, in __call_controllers
+    result = controller.during_go_eval()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 1247, in during_go_eval
+    return self.during_go_func(**call_args)
+  File "/home/dav/Projects/NumericMemory/pilot2/cognac/StimController.py", line 290, in update
+    self.state.send(t)
+  File "/home/dav/Projects/NumericMemory/pilot2/cognac/StimController.py", line 312, in state_generator
+    trial.log_response(t)
+  File "/home/dav/Projects/NumericMemory/pilot2/cognac/StimController.py", line 231, in log_response
+    self.curr_response.record_response(t):
+  File "../../../NumericMemory/pilot2/numeric_questions.py", line 157, in record_response
+    self.target.set(text="Don't think too hard!", color=(1, 0, 0))
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/__init__.py", line 432, in set
+    this_type = ve_types.get_type(value)
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/ParameterTypes.py", line 300, in get_type
+    py_type = type(value)
+KeyboardInterrupt
+
+2011-05-02 15:58:52,273 (7061) INFO: Script ./numeric_questions_fast.py started Vision Egg 1.2.1 with process id 7061.
+2011-05-02 15:58:53,779 (7061) INFO: Requesting window 1024 x 768 24 bpp (8 8 8 0 RGBA).
+2011-05-02 15:58:53,983 (7061) INFO: OpenGL 2.1 Mesa 7.10, Gallium 0.4 on AMD RS780, X.Org (PyOpenGL 3.0.1b2)
+2011-05-02 15:58:53,983 (7061) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2011-05-02 15:58:53,984 (7061) WARNING: Could not sync buffer swapping to vblank because you are running linux but not known/supported drivers (only nVidia and recent Mesa DRI Radeon currently supported).
+2011-05-02 16:00:10,145 (7061) WARNING: Calculated frames per second was 59.052, while the VISIONEGG_MONITOR_REFRESH_HZ variable is 60.0.
+2011-05-02 16:00:10,146 (7061) WARNING: One or more frames took 52.7 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2011-05-02 16:00:10,148 (7061) INFO: 4493 frames were drawn.
+Mean IFI was 16.93 msec (59.05 fps), longest IFI was 52.67 msec.
+histogram:
+  3471                                              *                     
+  3086                                              *                     
+  2700                                              *                     
+  2314                                              *                     
+  1929                                              *                     
+  1543                                              *                     
+  1157                                              *                     
+   771                                              *                     
+   386                                              *                     
+     0                     *    *    *    *    *    *    *    *    *    * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    2    17   5    64  235  +++  175   26   14   97 
+
+2011-05-03 17:55:34,369 (10177) INFO: Script /usr/bin/ipython started Vision Egg 1.2.1 with process id 10177.
+2011-05-03 18:05:55,471 (10418) INFO: Script ./visionegg_cam_capture.py started Vision Egg 1.2.1 with process id 10418.
+2011-05-03 18:06:01,007 (10418) INFO: Requesting window 1024 x 768 24 bpp (8 8 8 0 RGBA).
+2011-05-03 18:06:01,209 (10418) INFO: OpenGL 2.1 Mesa 7.10, Gallium 0.4 on AMD RS780, X.Org (PyOpenGL 3.0.1b2)
+2011-05-03 18:06:01,210 (10418) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2011-05-03 18:06:01,210 (10418) WARNING: Could not sync buffer swapping to vblank because you are running linux but not known/supported drivers (only nVidia and recent Mesa DRI Radeon currently supported).
+2011-05-03 18:06:01,217 (10418) CRITICAL: Traceback (most recent call last):
+  File "./visionegg_cam_capture.py", line 219, in <module>
+    win = CameraWindow('test.avi')
+  File "./visionegg_cam_capture.py", line 187, in __init__
+    texture_min_filter=gl.GL_LINEAR,
+NameError: global name 'gl' is not defined
+
+2011-05-03 18:07:37,659 (10490) INFO: Script ./visionegg_cam_capture.py started Vision Egg 1.2.1 with process id 10490.
+2011-05-03 18:07:40,428 (10490) INFO: Requesting window 1024 x 768 24 bpp (8 8 8 0 RGBA).
+2011-05-03 18:07:40,639 (10490) INFO: OpenGL 2.1 Mesa 7.10, Gallium 0.4 on AMD RS780, X.Org (PyOpenGL 3.0.1b2)
+2011-05-03 18:07:40,639 (10490) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2011-05-03 18:07:40,640 (10490) WARNING: Could not sync buffer swapping to vblank because you are running linux but not known/supported drivers (only nVidia and recent Mesa DRI Radeon currently supported).
+2011-05-03 18:07:40,662 (10490) CRITICAL: Traceback (most recent call last):
+  File "./visionegg_cam_capture.py", line 220, in <module>
+    win = CameraWindow('test.avi')
+  File "./visionegg_cam_capture.py", line 191, in __init__
+    self.vision_egg.set_stimuli([self.text_stim])
+AttributeError: CameraWindow instance has no attribute 'text_stim'
+
+2011-05-03 18:08:01,046 (10504) INFO: Script ./visionegg_cam_capture.py started Vision Egg 1.2.1 with process id 10504.
+2011-05-03 18:08:02,764 (10504) INFO: Requesting window 1024 x 768 24 bpp (8 8 8 0 RGBA).
+2011-05-03 18:08:02,971 (10504) INFO: OpenGL 2.1 Mesa 7.10, Gallium 0.4 on AMD RS780, X.Org (PyOpenGL 3.0.1b2)
+2011-05-03 18:08:02,971 (10504) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2011-05-03 18:08:02,971 (10504) WARNING: Could not sync buffer swapping to vblank because you are running linux but not known/supported drivers (only nVidia and recent Mesa DRI Radeon currently supported).
+2011-05-03 18:08:02,992 (10504) CRITICAL: Traceback (most recent call last):
+  File "./visionegg_cam_capture.py", line 221, in <module>
+    win.run()
+  File "./visionegg_cam_capture.py", line 209, in run
+    self.vision_egg.go()
+  File "/home/dav/Projects/rtmdsvn/opencv-hacking/NumericVid/cognac/SimpleVisionEgg.py", line 103, in go
+    self.presentation.go()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 363, in go
+    doing_transition=1)
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 275, in __call_controllers
+    result = controller.during_go_eval()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 1247, in during_go_eval
+    return self.during_go_func(**call_args)
+TypeError: update_image() got an unexpected keyword argument 't'
+
+2011-05-03 18:08:56,531 (10518) INFO: Script ./visionegg_cam_capture.py started Vision Egg 1.2.1 with process id 10518.
+2011-05-03 18:08:58,054 (10518) INFO: Requesting window 1024 x 768 24 bpp (8 8 8 0 RGBA).
+2011-05-03 18:08:58,263 (10518) INFO: OpenGL 2.1 Mesa 7.10, Gallium 0.4 on AMD RS780, X.Org (PyOpenGL 3.0.1b2)
+2011-05-03 18:08:58,264 (10518) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2011-05-03 18:08:58,264 (10518) WARNING: Could not sync buffer swapping to vblank because you are running linux but not known/supported drivers (only nVidia and recent Mesa DRI Radeon currently supported).
+2011-05-03 18:08:58,285 (10518) CRITICAL: Traceback (most recent call last):
+  File "./visionegg_cam_capture.py", line 224, in <module>
+    win.run()
+  File "./visionegg_cam_capture.py", line 212, in run
+    self.vision_egg.go()
+  File "/home/dav/Projects/rtmdsvn/opencv-hacking/NumericVid/cognac/SimpleVisionEgg.py", line 103, in go
+    self.presentation.go()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 363, in go
+    doing_transition=1)
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 275, in __call_controllers
+    result = controller.during_go_eval()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 1247, in during_go_eval
+    return self.during_go_func(**call_args)
+TypeError: update_image() got an unexpected keyword argument 't'
+
+2011-05-03 18:10:14,206 (10532) INFO: Script ./visionegg_cam_capture.py started Vision Egg 1.2.1 with process id 10532.
+2011-05-03 18:10:15,709 (10532) INFO: Requesting window 1024 x 768 24 bpp (8 8 8 0 RGBA).
+2011-05-03 18:10:15,921 (10532) INFO: OpenGL 2.1 Mesa 7.10, Gallium 0.4 on AMD RS780, X.Org (PyOpenGL 3.0.1b2)
+2011-05-03 18:10:15,921 (10532) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2011-05-03 18:10:15,921 (10532) WARNING: Could not sync buffer swapping to vblank because you are running linux but not known/supported drivers (only nVidia and recent Mesa DRI Radeon currently supported).
+2011-05-03 18:11:12,467 (10532) CRITICAL: Traceback (most recent call last):
+  File "./visionegg_cam_capture.py", line 224, in <module>
+    win.run()
+  File "./visionegg_cam_capture.py", line 212, in run
+    self.vision_egg.go()
+  File "/home/dav/Projects/rtmdsvn/opencv-hacking/NumericVid/cognac/SimpleVisionEgg.py", line 103, in go
+    self.presentation.go()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 391, in go
+    doing_transition=0)
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 275, in __call_controllers
+    result = controller.during_go_eval()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 1247, in during_go_eval
+    return self.during_go_func(**call_args)
+  File "./visionegg_cam_capture.py", line 206, in update_image
+    tex = self.cv_cam.conv2texture(im)
+  File "./visionegg_cam_capture.py", line 76, in conv2texture
+    cv.CvtColor(im, im_rgb, cv.CV_BGR2RGB)
+KeyboardInterrupt
+
+2011-05-03 18:14:47,399 (10555) INFO: Script ./visionegg_cam_capture.py started Vision Egg 1.2.1 with process id 10555.
+2011-05-03 18:14:48,646 (10555) INFO: Requesting window 1024 x 768 24 bpp (8 8 8 0 RGBA).
+2011-05-03 18:14:48,861 (10555) INFO: OpenGL 2.1 Mesa 7.10, Gallium 0.4 on AMD RS780, X.Org (PyOpenGL 3.0.1b2)
+2011-05-03 18:14:48,861 (10555) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2011-05-03 18:14:48,861 (10555) WARNING: Could not sync buffer swapping to vblank because you are running linux but not known/supported drivers (only nVidia and recent Mesa DRI Radeon currently supported).
+2011-05-03 18:15:10,789 (10555) CRITICAL: Traceback (most recent call last):
+  File "./visionegg_cam_capture.py", line 224, in <module>
+    win.run()
+  File "./visionegg_cam_capture.py", line 212, in run
+    self.vision_egg.go()
+  File "/home/dav/Projects/rtmdsvn/opencv-hacking/NumericVid/cognac/SimpleVisionEgg.py", line 103, in go
+    self.presentation.go()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 395, in go
+    viewport.draw()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/Core.py", line 1374, in draw
+    stimulus.draw()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/Textures.py", line 1421, in draw
+    self._reload_texture()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/Textures.py", line 1181, in _reload_texture
+    build_mipmaps = self.constant_parameters.mipmaps_enabled )
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/Textures.py", line 381, in load
+    texture_object.put_new_image( buffer, internal_format=internal_format, mipmap_level=0 )
+KeyboardInterrupt
+
+2011-05-03 18:37:28,759 (10767) INFO: Script ./visionegg_cam_capture.py started Vision Egg 1.2.1 with process id 10767.
+2011-05-03 18:37:30,715 (10767) INFO: Requesting window 1024 x 768 24 bpp (8 8 8 0 RGBA).
+2011-05-03 18:37:30,921 (10767) INFO: OpenGL 2.1 Mesa 7.10, Gallium 0.4 on AMD RS780, X.Org (PyOpenGL 3.0.1b2)
+2011-05-03 18:37:30,921 (10767) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2011-05-03 18:37:30,922 (10767) WARNING: Could not sync buffer swapping to vblank because you are running linux but not known/supported drivers (only nVidia and recent Mesa DRI Radeon currently supported).
+2011-05-03 18:37:52,177 (10767) CRITICAL: Traceback (most recent call last):
+  File "./visionegg_cam_capture.py", line 218, in <module>
+    win.run()
+  File "./visionegg_cam_capture.py", line 214, in run
+    self.vision_egg.go()
+  File "/home/dav/Projects/rtmdsvn/opencv-hacking/NumericVid/cognac/SimpleVisionEgg.py", line 103, in go
+    self.presentation.go()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 391, in go
+    doing_transition=0)
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 275, in __call_controllers
+    result = controller.during_go_eval()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 1247, in during_go_eval
+    return self.during_go_func(**call_args)
+  File "./visionegg_cam_capture.py", line 209, in update_image
+    self.vision_egg.set(quit=True)
+AttributeError: SimpleVisionEgg instance has no attribute 'set'
+
+2011-05-03 18:38:19,647 (10781) INFO: Script ./visionegg_cam_capture.py started Vision Egg 1.2.1 with process id 10781.
+2011-05-03 18:38:21,165 (10781) INFO: Requesting window 1024 x 768 24 bpp (8 8 8 0 RGBA).
+2011-05-03 18:38:21,379 (10781) INFO: OpenGL 2.1 Mesa 7.10, Gallium 0.4 on AMD RS780, X.Org (PyOpenGL 3.0.1b2)
+2011-05-03 18:38:21,380 (10781) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2011-05-03 18:38:21,380 (10781) WARNING: Could not sync buffer swapping to vblank because you are running linux but not known/supported drivers (only nVidia and recent Mesa DRI Radeon currently supported).
+2011-05-03 18:38:40,199 (10781) CRITICAL: Traceback (most recent call last):
+  File "./visionegg_cam_capture.py", line 218, in <module>
+    win.run()
+  File "./visionegg_cam_capture.py", line 214, in run
+    self.vision_egg.go()
+  File "/home/dav/Projects/rtmdsvn/opencv-hacking/NumericVid/cognac/SimpleVisionEgg.py", line 103, in go
+    self.presentation.go()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 395, in go
+    viewport.draw()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/Core.py", line 1374, in draw
+    stimulus.draw()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/Textures.py", line 1421, in draw
+    self._reload_texture()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/Textures.py", line 1181, in _reload_texture
+    build_mipmaps = self.constant_parameters.mipmaps_enabled )
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/Textures.py", line 346, in load
+    buffer[0:height,0:width,:] = self.texels
+KeyboardInterrupt
+
+2011-05-03 18:42:42,504 (10799) INFO: Script ./visionegg_cam_capture.py started Vision Egg 1.2.1 with process id 10799.
+2011-05-03 18:42:45,563 (10799) INFO: Requesting window 1024 x 768 24 bpp (8 8 8 0 RGBA).
+2011-05-03 18:42:45,778 (10799) INFO: OpenGL 2.1 Mesa 7.10, Gallium 0.4 on AMD RS780, X.Org (PyOpenGL 3.0.1b2)
+2011-05-03 18:42:45,778 (10799) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2011-05-03 18:42:45,779 (10799) WARNING: Could not sync buffer swapping to vblank because you are running linux but not known/supported drivers (only nVidia and recent Mesa DRI Radeon currently supported).
+2011-05-03 18:43:06,945 (10799) CRITICAL: Traceback (most recent call last):
+  File "./visionegg_cam_capture.py", line 218, in <module>
+    win.run()
+  File "./visionegg_cam_capture.py", line 214, in run
+    self.vision_egg.go()
+  File "/home/dav/Projects/rtmdsvn/opencv-hacking/NumericVid/cognac/SimpleVisionEgg.py", line 103, in go
+    self.presentation.go()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 391, in go
+    doing_transition=0)
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 275, in __call_controllers
+    result = controller.during_go_eval()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 1247, in during_go_eval
+    return self.during_go_func(**call_args)
+  File "./visionegg_cam_capture.py", line 200, in update_image
+    im = self.cv_cam.get_image()
+  File "./visionegg_cam_capture.py", line 57, in get_image
+    im = cv.QueryFrame(self.camera)
+KeyboardInterrupt
+
+2011-05-03 18:49:17,672 (10837) INFO: Script ./visionegg_cam_capture.py started Vision Egg 1.2.1 with process id 10837.
+2011-05-03 18:49:19,539 (10837) INFO: Requesting window 1024 x 768 24 bpp (8 8 8 0 RGBA).
+2011-05-03 18:49:19,756 (10837) INFO: OpenGL 2.1 Mesa 7.10, Gallium 0.4 on AMD RS780, X.Org (PyOpenGL 3.0.1b2)
+2011-05-03 18:49:19,756 (10837) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2011-05-03 18:49:19,757 (10837) WARNING: Could not sync buffer swapping to vblank because you are running linux but not known/supported drivers (only nVidia and recent Mesa DRI Radeon currently supported).
+2011-05-03 18:49:35,099 (10837) CRITICAL: Traceback (most recent call last):
+  File "./visionegg_cam_capture.py", line 219, in <module>
+    win.run()
+  File "./visionegg_cam_capture.py", line 215, in run
+    self.vision_egg.go()
+  File "/home/dav/Projects/rtmdsvn/opencv-hacking/NumericVid/cognac/SimpleVisionEgg.py", line 103, in go
+    self.presentation.go()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 395, in go
+    viewport.draw()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/Core.py", line 1374, in draw
+    stimulus.draw()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/Textures.py", line 1421, in draw
+    self._reload_texture()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/Textures.py", line 1181, in _reload_texture
+    build_mipmaps = self.constant_parameters.mipmaps_enabled )
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/Textures.py", line 381, in load
+    texture_object.put_new_image( buffer, internal_format=internal_format, mipmap_level=0 )
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/Textures.py", line 752, in put_new_image
+    raw_data)
+  File "/usr/lib/pymodules/python2.6/OpenGL/latebind.py", line 41, in __call__
+    return self._finalCall( *args, **named )
+  File "/usr/lib/pymodules/python2.6/OpenGL/wrapper.py", line 784, in wrapperCall
+    result = self.wrappedOperation( *cArguments )
+  File "/usr/lib/pymodules/python2.6/OpenGL/error.py", line 182, in glCheckError
+    def glCheckError(
+KeyboardInterrupt
+
+2011-05-03 18:56:51,085 (10880) INFO: Script ./visionegg_cam_capture.py started Vision Egg 1.2.1 with process id 10880.
+2011-05-03 18:56:52,848 (10880) INFO: Requesting window 1024 x 768 24 bpp (8 8 8 0 RGBA).
+2011-05-03 18:56:53,064 (10880) INFO: OpenGL 2.1 Mesa 7.10, Gallium 0.4 on AMD RS780, X.Org (PyOpenGL 3.0.1b2)
+2011-05-03 18:56:53,064 (10880) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2011-05-03 18:56:53,065 (10880) WARNING: Could not sync buffer swapping to vblank because you are running linux but not known/supported drivers (only nVidia and recent Mesa DRI Radeon currently supported).
+2011-05-03 18:56:59,474 (10880) CRITICAL: Traceback (most recent call last):
+  File "./visionegg_cam_capture.py", line 218, in <module>
+    win.run()
+  File "./visionegg_cam_capture.py", line 214, in run
+    self.vision_egg.go()
+  File "/home/dav/Projects/rtmdsvn/opencv-hacking/NumericVid/cognac/SimpleVisionEgg.py", line 103, in go
+    self.presentation.go()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 391, in go
+    doing_transition=0)
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 275, in __call_controllers
+    result = controller.during_go_eval()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 1247, in during_go_eval
+    return self.during_go_func(**call_args)
+  File "./visionegg_cam_capture.py", line 209, in update_image
+    self.vision_egg.quit()
+  File "/home/dav/Projects/rtmdsvn/opencv-hacking/NumericVid/cognac/SimpleVisionEgg.py", line 114, in quit
+    self.presentation.parameters.set(go_duration=-1)
+AttributeError: Parameters instance has no attribute 'set'
+
+2011-05-03 18:57:47,438 (10894) INFO: Script ./visionegg_cam_capture.py started Vision Egg 1.2.1 with process id 10894.
+2011-05-03 18:57:48,885 (10894) INFO: Requesting window 1024 x 768 24 bpp (8 8 8 0 RGBA).
+2011-05-03 18:57:49,092 (10894) INFO: OpenGL 2.1 Mesa 7.10, Gallium 0.4 on AMD RS780, X.Org (PyOpenGL 3.0.1b2)
+2011-05-03 18:57:49,092 (10894) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2011-05-03 18:57:49,093 (10894) WARNING: Could not sync buffer swapping to vblank because you are running linux but not known/supported drivers (only nVidia and recent Mesa DRI Radeon currently supported).
+2011-05-03 18:57:54,023 (10894) CRITICAL: Traceback (most recent call last):
+  File "./visionegg_cam_capture.py", line 218, in <module>
+    win.run()
+  File "./visionegg_cam_capture.py", line 214, in run
+    self.vision_egg.go()
+  File "/home/dav/Projects/rtmdsvn/opencv-hacking/NumericVid/cognac/SimpleVisionEgg.py", line 103, in go
+    self.presentation.go()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 391, in go
+    doing_transition=0)
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 275, in __call_controllers
+    result = controller.during_go_eval()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 1247, in during_go_eval
+    return self.during_go_func(**call_args)
+  File "./visionegg_cam_capture.py", line 209, in update_image
+    self.vision_egg.quit()
+  File "/home/dav/Projects/rtmdsvn/opencv-hacking/NumericVid/cognac/SimpleVisionEgg.py", line 114, in quit
+    self.presentation.set(go_duration=-1)
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/__init__.py", line 433, in set
+    ve_types.assert_type(this_type,require_type)
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/ParameterTypes.py", line 415, in assert_type
+    raise TypeError("%s not of type %s"%(check_type,require_type))
+TypeError: UnsignedInteger not of type Sequence of AnyOf(Real or String)
+
+2011-05-03 18:58:33,785 (10913) INFO: Script ./visionegg_cam_capture.py started Vision Egg 1.2.1 with process id 10913.
+2011-05-03 18:58:36,022 (10913) INFO: Requesting window 1024 x 768 24 bpp (8 8 8 0 RGBA).
+2011-05-03 18:58:36,236 (10913) INFO: OpenGL 2.1 Mesa 7.10, Gallium 0.4 on AMD RS780, X.Org (PyOpenGL 3.0.1b2)
+2011-05-03 18:58:36,236 (10913) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2011-05-03 18:58:36,237 (10913) WARNING: Could not sync buffer swapping to vblank because you are running linux but not known/supported drivers (only nVidia and recent Mesa DRI Radeon currently supported).
+2011-05-03 18:58:41,404 (10913) CRITICAL: Traceback (most recent call last):
+  File "./visionegg_cam_capture.py", line 218, in <module>
+    win.run()
+  File "./visionegg_cam_capture.py", line 214, in run
+    self.vision_egg.go()
+  File "/home/dav/Projects/rtmdsvn/opencv-hacking/NumericVid/cognac/SimpleVisionEgg.py", line 103, in go
+    self.presentation.go()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 420, in go
+    elif p.go_duration[1] == 'seconds':
+IndexError: tuple index out of range
+
+2011-05-03 18:59:51,550 (10929) INFO: Script ./visionegg_cam_capture.py started Vision Egg 1.2.1 with process id 10929.
+2011-05-03 18:59:53,884 (10929) INFO: Requesting window 1024 x 768 24 bpp (8 8 8 0 RGBA).
+2011-05-03 18:59:54,096 (10929) INFO: OpenGL 2.1 Mesa 7.10, Gallium 0.4 on AMD RS780, X.Org (PyOpenGL 3.0.1b2)
+2011-05-03 18:59:54,096 (10929) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2011-05-03 18:59:54,097 (10929) WARNING: Could not sync buffer swapping to vblank because you are running linux but not known/supported drivers (only nVidia and recent Mesa DRI Radeon currently supported).
+2011-05-03 18:59:59,414 (10929) WARNING: Calculated frames per second was 19.665, while the VISIONEGG_MONITOR_REFRESH_HZ variable is 60.0.
+2011-05-03 18:59:59,415 (10929) WARNING: One or more frames took 66.1 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2011-05-03 18:59:59,416 (10929) INFO: 82 frames were drawn.
+Mean IFI was 50.85 msec (19.66 fps), longest IFI was 66.09 msec.
+histogram:
+    73                                                                  * 
+    65                                                                  * 
+    57                                                                  * 
+    49                                                                  * 
+    41                                                                  * 
+    32                                                                  * 
+    24                                                                  * 
+    16                                                                  * 
+     8                                                                  * 
+     0                                                                  * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0    0    0    0    0    81 
+
+2011-05-03 19:01:27,652 (11023) INFO: Script ./visionegg_cam_capture.py started Vision Egg 1.2.1 with process id 11023.
+2011-05-03 19:01:34,180 (11023) INFO: Requesting window 1024 x 768 24 bpp (8 8 8 0 RGBA).
+2011-05-03 19:01:34,395 (11023) INFO: OpenGL 2.1 Mesa 7.10, Gallium 0.4 on AMD RS780, X.Org (PyOpenGL 3.0.1b2)
+2011-05-03 19:01:34,395 (11023) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2011-05-03 19:01:34,396 (11023) WARNING: Could not sync buffer swapping to vblank because you are running linux but not known/supported drivers (only nVidia and recent Mesa DRI Radeon currently supported).
+2011-05-03 19:02:12,875 (11023) WARNING: Calculated frames per second was 19.842, while the VISIONEGG_MONITOR_REFRESH_HZ variable is 30.0.
+2011-05-03 19:02:12,876 (11023) WARNING: One or more frames took 73.7 msec, which is signficantly longer than the expected inter frame interval of 33.3 msec for your frame rate (30.0 Hz).
+2011-05-03 19:02:12,877 (11023) INFO: 740 frames were drawn.
+Mean IFI was 50.40 msec (19.84 fps), longest IFI was 73.67 msec.
+histogram:
+   665                                                                  * 
+   591                                                                  * 
+   517                                                                  * 
+   443                                                                  * 
+   370                                                                  * 
+   296                                                                  * 
+   222                                                                  * 
+   148                                                                  * 
+    74                                                                  * 
+     0                                                                  * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0    0    0    0    0   739 
+
+2011-05-03 19:09:48,357 (11082) INFO: Script ./visionegg_cam_capture.py started Vision Egg 1.2.1 with process id 11082.
+2011-05-03 19:09:49,819 (11082) INFO: Requesting window 1024 x 768 24 bpp (8 8 8 0 RGBA).
+2011-05-03 19:09:50,020 (11082) INFO: OpenGL 2.1 Mesa 7.10, Gallium 0.4 on AMD RS780, X.Org (PyOpenGL 3.0.1b2)
+2011-05-03 19:09:50,020 (11082) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2011-05-03 19:09:50,021 (11082) WARNING: Could not sync buffer swapping to vblank because you are running linux but not known/supported drivers (only nVidia and recent Mesa DRI Radeon currently supported).
+2011-05-03 19:09:51,178 (11082) CRITICAL: Traceback (most recent call last):
+  File "./visionegg_cam_capture.py", line 222, in <module>
+    win.run()
+  File "./visionegg_cam_capture.py", line 218, in run
+    self.vision_egg.go()
+  File "/home/dav/Projects/rtmdsvn/opencv-hacking/NumericVid/cognac/SimpleVisionEgg.py", line 103, in go
+    self.presentation.go()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 363, in go
+    doing_transition=1)
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 275, in __call_controllers
+    result = controller.during_go_eval()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 1247, in during_go_eval
+    return self.during_go_func(**call_args)
+  File "./visionegg_cam_capture.py", line 207, in update_image
+    tex = self.cv_cam.conv2texture(im)
+  File "./visionegg_cam_capture.py", line 85, in conv2texture
+    (self.width, self.height), "RGB")
+TypeError: expected a character buffer object
+
+2011-05-03 19:11:25,334 (11096) INFO: Script ./visionegg_cam_capture.py started Vision Egg 1.2.1 with process id 11096.
+2011-05-03 19:11:27,032 (11096) INFO: Requesting window 1024 x 768 24 bpp (8 8 8 0 RGBA).
+2011-05-03 19:11:27,232 (11096) INFO: OpenGL 2.1 Mesa 7.10, Gallium 0.4 on AMD RS780, X.Org (PyOpenGL 3.0.1b2)
+2011-05-03 19:11:27,233 (11096) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2011-05-03 19:11:27,233 (11096) WARNING: Could not sync buffer swapping to vblank because you are running linux but not known/supported drivers (only nVidia and recent Mesa DRI Radeon currently supported).
+2011-05-03 19:11:28,444 (11096) CRITICAL: Traceback (most recent call last):
+  File "./visionegg_cam_capture.py", line 222, in <module>
+    win.run()
+  File "./visionegg_cam_capture.py", line 218, in run
+    self.vision_egg.go()
+  File "/home/dav/Projects/rtmdsvn/opencv-hacking/NumericVid/cognac/SimpleVisionEgg.py", line 103, in go
+    self.presentation.go()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 395, in go
+    viewport.draw()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/Core.py", line 1374, in draw
+    stimulus.draw()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/Textures.py", line 1421, in draw
+    self._reload_texture()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/Textures.py", line 1179, in _reload_texture
+    p.texture.load( self.texture_object,
+AttributeError: 'pygame.Surface' object has no attribute 'load'
+
+2011-05-03 19:17:59,688 (11115) INFO: Script ./visionegg_cam_capture.py started Vision Egg 1.2.1 with process id 11115.
+2011-05-03 19:18:01,360 (11115) INFO: Requesting window 1024 x 768 24 bpp (8 8 8 0 RGBA).
+2011-05-03 19:18:01,561 (11115) INFO: OpenGL 2.1 Mesa 7.10, Gallium 0.4 on AMD RS780, X.Org (PyOpenGL 3.0.1b2)
+2011-05-03 19:18:01,561 (11115) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2011-05-03 19:18:01,561 (11115) WARNING: Could not sync buffer swapping to vblank because you are running linux but not known/supported drivers (only nVidia and recent Mesa DRI Radeon currently supported).
+2011-05-03 19:18:33,084 (11115) CRITICAL: Traceback (most recent call last):
+  File "./visionegg_cam_capture.py", line 219, in <module>
+    win.run()
+  File "./visionegg_cam_capture.py", line 215, in run
+    self.vision_egg.go()
+  File "/home/dav/Projects/rtmdsvn/opencv-hacking/NumericVid/cognac/SimpleVisionEgg.py", line 103, in go
+    self.presentation.go()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/FlowControl.py", line 395, in go
+    viewport.draw()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/Core.py", line 1374, in draw
+    stimulus.draw()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/Textures.py", line 1421, in draw
+    self._reload_texture()
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/Textures.py", line 1181, in _reload_texture
+    build_mipmaps = self.constant_parameters.mipmaps_enabled )
+  File "/usr/local/lib/python2.6/dist-packages/visionegg-1.2.1-py2.6-linux-x86_64.egg/VisionEgg/Textures.py", line 346, in load
+    buffer[0:height,0:width,:] = self.texels
+KeyboardInterrupt
+
+2011-05-03 19:18:36,800 (11130) INFO: Script ./visionegg_cam_capture.py started Vision Egg 1.2.1 with process id 11130.
+2011-05-03 19:18:44,971 (11130) INFO: Requesting window 800 x 600 24 bpp (8 8 8 0 RGBA).
+2011-05-03 19:18:45,175 (11130) INFO: OpenGL 2.1 Mesa 7.10, Gallium 0.4 on AMD RS780, X.Org (PyOpenGL 3.0.1b2)
+2011-05-03 19:18:45,176 (11130) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2011-05-03 19:18:45,176 (11130) WARNING: Could not sync buffer swapping to vblank because you are running linux but not known/supported drivers (only nVidia and recent Mesa DRI Radeon currently supported).
+2011-05-03 19:18:54,553 (11130) WARNING: Calculated frames per second was 18.982, while the VISIONEGG_MONITOR_REFRESH_HZ variable is 60.0.
+2011-05-03 19:18:54,553 (11130) WARNING: One or more frames took 163.7 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2011-05-03 19:18:54,555 (11130) INFO: 155 frames were drawn.
+Mean IFI was 52.68 msec (18.98 fps), longest IFI was 163.71 msec.
+histogram:
+   139                                                                  * 
+   123                                                                  * 
+   108                                                                  * 
+    92                                                                  * 
+    77                                                                  * 
+    62                                                                  * 
+    46                                                                  * 
+    31                                                                  * 
+    15                                                                  * 
+     0                                                                  * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0    0    0    0    0   154 
+
+2011-05-03 19:20:15,898 (11152) INFO: Script ./visionegg_cam_capture.py started Vision Egg 1.2.1 with process id 11152.
+2011-05-03 19:20:17,316 (11152) INFO: Requesting window 1024 x 768 24 bpp (8 8 8 0 RGBA).
+2011-05-03 19:20:17,528 (11152) INFO: OpenGL 2.1 Mesa 7.10, Gallium 0.4 on AMD RS780, X.Org (PyOpenGL 3.0.1b2)
+2011-05-03 19:20:17,529 (11152) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2011-05-03 19:20:17,529 (11152) WARNING: Could not sync buffer swapping to vblank because you are running linux but not known/supported drivers (only nVidia and recent Mesa DRI Radeon currently supported).
+2011-05-03 19:20:23,283 (11152) WARNING: Calculated frames per second was 19.691, while the VISIONEGG_MONITOR_REFRESH_HZ variable is 60.0.
+2011-05-03 19:20:23,283 (11152) WARNING: One or more frames took 97.9 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2011-05-03 19:20:23,284 (11152) INFO: 95 frames were drawn.
+Mean IFI was 50.78 msec (19.69 fps), longest IFI was 97.94 msec.
+histogram:
+    85                                                                  * 
+    75                                                                  * 
+    66                                                                  * 
+    56                                                                  * 
+    47                                                                  * 
+    38                                                                  * 
+    28                                                                  * 
+    19                                                                  * 
+     9                                                                  * 
+     0                                                                  * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0    0    0    0    0    94 
+
+2011-05-03 19:25:50,757 (11322) INFO: Script ./visionegg_cam_capture.py started Vision Egg 1.2.1 with process id 11322.
+2011-05-03 19:25:52,568 (11322) INFO: Requesting window 1024 x 768 24 bpp (8 8 8 0 RGBA).
+2011-05-03 19:25:52,777 (11322) INFO: OpenGL 2.1 Mesa 7.10, Gallium 0.4 on AMD RS780, X.Org (PyOpenGL 3.0.1b2)
+2011-05-03 19:25:52,777 (11322) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2011-05-03 19:25:52,778 (11322) WARNING: Could not sync buffer swapping to vblank because you are running linux but not known/supported drivers (only nVidia and recent Mesa DRI Radeon currently supported).
+2011-05-03 19:26:03,270 (11322) WARNING: Calculated frames per second was 19.718, while the VISIONEGG_MONITOR_REFRESH_HZ variable is 60.0.
+2011-05-03 19:26:03,270 (11322) WARNING: One or more frames took 119.9 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2011-05-03 19:26:03,272 (11322) INFO: 181 frames were drawn.
+Mean IFI was 50.72 msec (19.72 fps), longest IFI was 119.93 msec.
+histogram:
+   162                                                                  * 
+   144                                                                  * 
+   126                                                                  * 
+   108                                                                  * 
+    90                                                                  * 
+    72                                                                  * 
+    54                                                                  * 
+    36                                                                  * 
+    18                                                                  * 
+     0                                                                  * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0    0    0    0    0   180 
+
+2011-05-03 22:10:55,695 (70978) INFO: Script ./visionegg_cam_capture.py started Vision Egg 1.2.1 with process id 70978.
+2011-05-03 22:11:13,233 (70978) INFO: Requesting window 800 x 600 32 bpp (8 8 8 0 RGBA).
+2011-05-03 22:11:14,450 (70978) INFO: OpenGL 2.1 NVIDIA-1.6.26, NVIDIA GeForce 320M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.1)
+2011-05-03 22:11:14,450 (70978) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2011-05-03 22:11:24,444 (70978) WARNING: Calculated frames per second was 13.918, while the VISIONEGG_MONITOR_REFRESH_HZ variable is 60.0.
+2011-05-03 22:11:24,444 (70978) WARNING: One or more frames took 324.5 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2011-05-03 22:11:24,445 (70978) INFO: 138 frames were drawn.
+Mean IFI was 71.85 msec (13.92 fps), longest IFI was 324.46 msec.
+histogram:
+   123                                                                  * 
+   110                                                                  * 
+    96                                                                  * 
+    82                                                                  * 
+    69                                                                  * 
+    55                                                                  * 
+    41                                                                  * 
+    27                                                                  * 
+    14                                                                  * 
+     0                                                                  * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0    0    0    0    0   137 
+
+2011-05-03 22:20:35,287 (71049) INFO: Script ./visionegg_cam_capture.py started Vision Egg 1.2.1 with process id 71049.
+2011-05-03 22:20:39,628 (71049) INFO: Requesting window 800 x 600 32 bpp (8 8 8 0 RGBA).
+2011-05-03 22:20:40,704 (71049) INFO: OpenGL 2.1 NVIDIA-1.6.26, NVIDIA GeForce 320M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.1)
+2011-05-03 22:20:40,704 (71049) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2011-05-03 22:20:47,895 (71049) WARNING: Calculated frames per second was 13.841, while the VISIONEGG_MONITOR_REFRESH_HZ variable is 60.0.
+2011-05-03 22:20:47,895 (71049) WARNING: One or more frames took 329.0 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2011-05-03 22:20:47,896 (71049) INFO: 99 frames were drawn.
+Mean IFI was 72.25 msec (13.84 fps), longest IFI was 329.03 msec.
+histogram:
+    88                                                                  * 
+    78                                                                  * 
+    69                                                                  * 
+    59                                                                  * 
+    49                                                                  * 
+    39                                                                  * 
+    29                                                                  * 
+    20                                                                  * 
+    10                                                                  * 
+     0                                                                  * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0    0    0    0    0    98 
+
+2011-05-03 22:27:01,957 (71080) INFO: Script ./visionegg_cam_capture.py started Vision Egg 1.2.1 with process id 71080.
+2011-05-03 22:27:06,562 (71080) INFO: Requesting window 800 x 600 32 bpp (8 8 8 0 RGBA).
+2011-05-03 22:27:07,658 (71080) INFO: OpenGL 2.1 NVIDIA-1.6.26, NVIDIA GeForce 320M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.1)
+2011-05-03 22:27:07,658 (71080) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2011-05-03 22:27:07,667 (71080) CRITICAL: Traceback (most recent call last):
+  File "./visionegg_cam_capture.py", line 223, in <module>
+    win = CameraWindow('test.avi')
+  File "./visionegg_cam_capture.py", line 193, in __init__
+    self.tex_object = stimulus.parameters.texture.get_texture_object()
+NameError: global name 'stimulus' is not defined
+
+2011-05-03 22:27:21,964 (71082) INFO: Script ./visionegg_cam_capture.py started Vision Egg 1.2.1 with process id 71082.
+2011-05-03 22:27:26,199 (71082) INFO: Requesting window 800 x 600 32 bpp (8 8 8 0 RGBA).
+2011-05-03 22:27:27,276 (71082) INFO: OpenGL 2.1 NVIDIA-1.6.26, NVIDIA GeForce 320M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.1)
+2011-05-03 22:27:27,277 (71082) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2011-05-03 22:27:27,304 (71082) CRITICAL: Traceback (most recent call last):
+  File "./visionegg_cam_capture.py", line 224, in <module>
+    win.run()
+  File "./visionegg_cam_capture.py", line 220, in run
+    self.vision_egg.go()
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/cognac/SimpleVisionEgg.py", line 103, in go
+    self.presentation.go()
+  File "/Library/Python/2.6/site-packages/visionegg-1.2.1-py2.6-macosx-10.6-universal.egg/VisionEgg/FlowControl.py", line 363, in go
+    doing_transition=1)
+  File "/Library/Python/2.6/site-packages/visionegg-1.2.1-py2.6-macosx-10.6-universal.egg/VisionEgg/FlowControl.py", line 275, in __call_controllers
+    result = controller.during_go_eval()
+  File "/Library/Python/2.6/site-packages/visionegg-1.2.1-py2.6-macosx-10.6-universal.egg/VisionEgg/FlowControl.py", line 1247, in during_go_eval
+    return self.during_go_func(**call_args)
+  File "./visionegg_cam_capture.py", line 206, in update_image
+    self.tex_object.put_new_image(arr)
+  File "/Library/Python/2.6/site-packages/visionegg-1.2.1-py2.6-macosx-10.6-universal.egg/VisionEgg/Textures.py", line 596, in put_new_image
+    raise TypeError("Expecting numpy array, PIL image, or pygame surface")
+TypeError: Expecting numpy array, PIL image, or pygame surface
+
+2011-05-03 22:27:41,760 (71084) INFO: Script ./visionegg_cam_capture.py started Vision Egg 1.2.1 with process id 71084.
+2011-05-03 22:27:45,785 (71084) INFO: Requesting window 800 x 600 32 bpp (8 8 8 0 RGBA).
+2011-05-03 22:27:46,892 (71084) INFO: OpenGL 2.1 NVIDIA-1.6.26, NVIDIA GeForce 320M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.1)
+2011-05-03 22:27:46,892 (71084) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2011-05-03 22:27:46,935 (71084) CRITICAL: Traceback (most recent call last):
+  File "./visionegg_cam_capture.py", line 224, in <module>
+    win.run()
+  File "./visionegg_cam_capture.py", line 220, in run
+    self.vision_egg.go()
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/cognac/SimpleVisionEgg.py", line 103, in go
+    self.presentation.go()
+  File "/Library/Python/2.6/site-packages/visionegg-1.2.1-py2.6-macosx-10.6-universal.egg/VisionEgg/FlowControl.py", line 363, in go
+    doing_transition=1)
+  File "/Library/Python/2.6/site-packages/visionegg-1.2.1-py2.6-macosx-10.6-universal.egg/VisionEgg/FlowControl.py", line 275, in __call_controllers
+    result = controller.during_go_eval()
+  File "/Library/Python/2.6/site-packages/visionegg-1.2.1-py2.6-macosx-10.6-universal.egg/VisionEgg/FlowControl.py", line 1247, in during_go_eval
+    return self.during_go_func(**call_args)
+  File "./visionegg_cam_capture.py", line 206, in update_image
+    self.tex_object.put_new_image(arr)
+  File "/Library/Python/2.6/site-packages/visionegg-1.2.1-py2.6-macosx-10.6-universal.egg/VisionEgg/Textures.py", line 658, in put_new_image
+    if not is_power_of_2(width): raise ValueError("texel_data does not have all dimensions == n^2")
+ValueError: texel_data does not have all dimensions == n^2
+
+2011-05-03 22:28:56,822 (71102) INFO: Script ./visionegg_cam_capture.py started Vision Egg 1.2.1 with process id 71102.
+2011-05-03 22:29:01,292 (71102) INFO: Requesting window 800 x 600 32 bpp (8 8 8 0 RGBA).
+2011-05-03 22:29:02,369 (71102) INFO: OpenGL 2.1 NVIDIA-1.6.26, NVIDIA GeForce 320M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.1)
+2011-05-03 22:29:02,369 (71102) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2011-05-03 22:29:03,419 (71102) CRITICAL: Traceback (most recent call last):
+  File "./visionegg_cam_capture.py", line 224, in <module>
+    win.run()
+  File "./visionegg_cam_capture.py", line 220, in run
+    self.vision_egg.go()
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/cognac/SimpleVisionEgg.py", line 103, in go
+    self.presentation.go()
+  File "/Library/Python/2.6/site-packages/visionegg-1.2.1-py2.6-macosx-10.6-universal.egg/VisionEgg/FlowControl.py", line 363, in go
+    doing_transition=1)
+  File "/Library/Python/2.6/site-packages/visionegg-1.2.1-py2.6-macosx-10.6-universal.egg/VisionEgg/FlowControl.py", line 275, in __call_controllers
+    result = controller.during_go_eval()
+  File "/Library/Python/2.6/site-packages/visionegg-1.2.1-py2.6-macosx-10.6-universal.egg/VisionEgg/FlowControl.py", line 1247, in during_go_eval
+    return self.during_go_func(**call_args)
+  File "./visionegg_cam_capture.py", line 206, in update_image
+    self.tex_object.put_sub_image(arr)
+  File "/Library/Python/2.6/site-packages/visionegg-1.2.1-py2.6-macosx-10.6-universal.egg/VisionEgg/Textures.py", line 1002, in put_sub_image
+    raw_data)
+  File "/Library/Python/2.6/site-packages/PyOpenGL-3.0.1-py2.6.egg/OpenGL/latebind.py", line 45, in __call__
+    return self._finalCall( *args, **named )
+  File "/Library/Python/2.6/site-packages/PyOpenGL-3.0.1-py2.6.egg/OpenGL/wrapper.py", line 791, in wrapperCall
+    raise err
+GLError: GLError(
+	err = 1281,
+	description = 'invalid value',
+	baseOperation = glTexSubImage2D,
+	pyArgs = (
+		GL_TEXTURE_2D,
+		0,
+		0,
+		0,
+		640,
+		480,
+		GL_RGB,
+		GL_UNSIGNED_BYTE,
+		'\x01\x05\x00\x04\x08\x00\x01\x06\x05...,
+	),
+	cArgs = (
+		GL_TEXTURE_2D,
+		0,
+		0,
+		0,
+		640,
+		480,
+		GL_RGB,
+		GL_UNSIGNED_BYTE,
+		'\x01\x05\x00\x04\x08\x00\x01\x06\x05...,
+	),
+	cArguments = (
+		GL_TEXTURE_2D,
+		0,
+		0,
+		0,
+		640,
+		480,
+		GL_RGB,
+		GL_UNSIGNED_BYTE,
+		'\x01\x05\x00\x04\x08\x00\x01\x06\x05...,
+	)
+)
+
+2011-05-03 22:30:31,798 (71107) INFO: Script ./visionegg_cam_capture.py started Vision Egg 1.2.1 with process id 71107.
+2011-05-03 22:30:36,275 (71107) INFO: Requesting window 800 x 600 32 bpp (8 8 8 0 RGBA).
+2011-05-03 22:30:37,362 (71107) INFO: OpenGL 2.1 NVIDIA-1.6.26, NVIDIA GeForce 320M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.1)
+2011-05-03 22:30:37,362 (71107) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2011-05-03 22:31:02,240 (71107) WARNING: Calculated frames per second was 14.753, while the VISIONEGG_MONITOR_REFRESH_HZ variable is 60.0.
+2011-05-03 22:31:02,241 (71107) WARNING: One or more frames took 408.1 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2011-05-03 22:31:02,242 (71107) INFO: 366 frames were drawn.
+Mean IFI was 67.78 msec (14.75 fps), longest IFI was 408.07 msec.
+histogram:
+   329                                                                  * 
+   292                                                                  * 
+   256                                                                  * 
+   219                                                                  * 
+   183                                                                  * 
+   146                                                                  * 
+   110                                                                  * 
+    73                                                                  * 
+    37                                                                  * 
+     0                                                                  * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0    0    0    0    0   365 
+
+2011-05-03 22:33:59,683 (71126) INFO: Script ./visionegg_cam_capture.py started Vision Egg 1.2.1 with process id 71126.
+2011-05-03 22:34:21,096 (71126) INFO: Requesting window 800 x 600 32 bpp (8 8 8 0 RGBA).
+2011-05-03 22:34:22,174 (71126) INFO: OpenGL 2.1 NVIDIA-1.6.26, NVIDIA GeForce 320M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.1)
+2011-05-03 22:34:22,174 (71126) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2011-05-03 22:34:22,229 (71126) CRITICAL: Traceback (most recent call last):
+  File "./visionegg_cam_capture.py", line 231, in <module>
+    win.run()
+  File "./visionegg_cam_capture.py", line 227, in run
+    self.vision_egg.go()
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/cognac/SimpleVisionEgg.py", line 103, in go
+    self.presentation.go()
+  File "/Library/Python/2.6/site-packages/visionegg-1.2.1-py2.6-macosx-10.6-universal.egg/VisionEgg/FlowControl.py", line 363, in go
+    doing_transition=1)
+  File "/Library/Python/2.6/site-packages/visionegg-1.2.1-py2.6-macosx-10.6-universal.egg/VisionEgg/FlowControl.py", line 275, in __call_controllers
+    result = controller.during_go_eval()
+  File "/Library/Python/2.6/site-packages/visionegg-1.2.1-py2.6-macosx-10.6-universal.egg/VisionEgg/FlowControl.py", line 1247, in during_go_eval
+    return self.during_go_func(**call_args)
+  File "./visionegg_cam_capture.py", line 213, in update_image
+    self.tex_object.put_new_image(arr)
+  File "/Library/Python/2.6/site-packages/visionegg-1.2.1-py2.6-macosx-10.6-universal.egg/VisionEgg/Textures.py", line 658, in put_new_image
+    if not is_power_of_2(width): raise ValueError("texel_data does not have all dimensions == n^2")
+ValueError: texel_data does not have all dimensions == n^2
+
+2011-05-04 00:21:14,971 (71488) INFO: Script ./numeric_questions_fast.py started Vision Egg 1.2.1 with process id 71488.
+2011-05-04 00:21:14,979 (71488) CRITICAL: Traceback (most recent call last):
+  File "./numeric_questions_fast.py", line 20, in <module>
+    from visionegg_cam_capture import Recording
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/visionegg_cam_capture.py", line 254
+     if on:
+    ^
+ IndentationError: unexpected indent
+
+2011-05-04 00:21:25,263 (71489) INFO: Script ./numeric_questions_fast.py started Vision Egg 1.2.1 with process id 71489.
+2011-05-04 00:21:25,266 (71489) CRITICAL: Traceback (most recent call last):
+  File "./numeric_questions_fast.py", line 20, in <module>
+    from visionegg_cam_capture import Recording
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/visionegg_cam_capture.py", line 257
+     else:
+        ^
+ SyntaxError: invalid syntax
+
+2011-05-04 00:21:39,361 (71490) INFO: Script ./numeric_questions_fast.py started Vision Egg 1.2.1 with process id 71490.
+2011-05-04 00:21:41,671 (71490) INFO: Requesting window 800 x 600 32 bpp (8 8 8 0 RGBA).
+2011-05-04 00:21:42,580 (71490) INFO: OpenGL 2.1 NVIDIA-1.6.26, NVIDIA GeForce 320M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.1)
+2011-05-04 00:21:42,581 (71490) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2011-05-04 00:21:45,179 (71490) CRITICAL: Traceback (most recent call last):
+  File "./numeric_questions_fast.py", line 96, in <module>
+    recording = Recording()
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/visionegg_cam_capture.py", line 249, in __init__
+    self.size = self.cv_cam.width, self.cv_cam.height
+AttributeError: Recording instance has no attribute 'cv_cam'
+
+2011-05-04 00:22:01,025 (71501) INFO: Script ./numeric_questions_fast.py started Vision Egg 1.2.1 with process id 71501.
+2011-05-04 00:22:09,522 (71501) INFO: Requesting window 1024 x 768 32 bpp (8 8 8 0 RGBA).
+2011-05-04 00:22:10,412 (71501) INFO: OpenGL 2.1 NVIDIA-1.6.26, NVIDIA GeForce 320M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.1)
+2011-05-04 00:22:10,412 (71501) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2011-05-04 00:22:12,931 (71501) CRITICAL: Traceback (most recent call last):
+  File "./numeric_questions_fast.py", line 96, in <module>
+    recording = Recording()
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/visionegg_cam_capture.py", line 249, in __init__
+    self.size = self.cv_cam.width, self.cv_cam.height
+AttributeError: Recording instance has no attribute 'cv_cam'
+
+2011-05-04 00:22:36,070 (71511) INFO: Script ./numeric_questions_fast.py started Vision Egg 1.2.1 with process id 71511.
+2011-05-04 00:22:38,313 (71511) INFO: Requesting window 1024 x 768 32 bpp (8 8 8 0 RGBA).
+2011-05-04 00:22:39,185 (71511) INFO: OpenGL 2.1 NVIDIA-1.6.26, NVIDIA GeForce 320M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.1)
+2011-05-04 00:22:39,186 (71511) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2011-05-04 00:22:41,727 (71511) CRITICAL: Traceback (most recent call last):
+  File "./numeric_questions_fast.py", line 293, in <module>
+    main(argv[1])
+  File "./numeric_questions_fast.py", line 278, in main
+    fname = join(base, 'trial%02.avi' % len(trials))
+ValueError: unsupported format character 'a' (0x61) at index 9
+
+2011-05-04 00:23:02,150 (71513) INFO: Script ./numeric_questions_fast.py started Vision Egg 1.2.1 with process id 71513.
+2011-05-04 00:23:04,083 (71513) INFO: Requesting window 1024 x 768 32 bpp (8 8 8 0 RGBA).
+2011-05-04 00:23:04,964 (71513) INFO: OpenGL 2.1 NVIDIA-1.6.26, NVIDIA GeForce 320M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.1)
+2011-05-04 00:23:04,965 (71513) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2011-05-04 00:23:07,495 (71513) CRITICAL: Traceback (most recent call last):
+  File "./numeric_questions_fast.py", line 293, in <module>
+    main(argv[1])
+  File "./numeric_questions_fast.py", line 282, in main
+    stim_control.run_trials()
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/cognac/StimController.py", line 326, in run_trials
+    self.vision_egg.go()
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/cognac/SimpleVisionEgg.py", line 103, in go
+    self.presentation.go()
+  File "/Library/Python/2.6/site-packages/visionegg-1.2.1-py2.6-macosx-10.6-universal.egg/VisionEgg/FlowControl.py", line 363, in go
+    doing_transition=1)
+  File "/Library/Python/2.6/site-packages/visionegg-1.2.1-py2.6-macosx-10.6-universal.egg/VisionEgg/FlowControl.py", line 275, in __call_controllers
+    result = controller.during_go_eval()
+  File "/Library/Python/2.6/site-packages/visionegg-1.2.1-py2.6-macosx-10.6-universal.egg/VisionEgg/FlowControl.py", line 1247, in during_go_eval
+    return self.during_go_func(**call_args)
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/cognac/StimController.py", line 344, in update
+    self.state.send(t)
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/cognac/StimController.py", line 367, in state_generator
+    trial.activate_events(t)
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/cognac/StimController.py", line 262, in activate_events
+    event.activate()
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/cognac/StimController.py", line 203, in activate
+    self.target.set(**self.parms)
+TypeError: set() got an unexpected keyword argument 'unlogged'
+
+2011-05-04 00:23:35,748 (71515) INFO: Script ./numeric_questions_fast.py started Vision Egg 1.2.1 with process id 71515.
+2011-05-04 00:23:37,661 (71515) INFO: Requesting window 1024 x 768 32 bpp (8 8 8 0 RGBA).
+2011-05-04 00:23:38,539 (71515) INFO: OpenGL 2.1 NVIDIA-1.6.26, NVIDIA GeForce 320M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.1)
+2011-05-04 00:23:38,541 (71515) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2011-05-04 00:24:19,315 (71515) INFO: 2288 frames were drawn.
+Mean IFI was 16.71 msec (59.84 fps), longest IFI was 33.08 msec.
+histogram:
+  1004                                              *                     
+   893                                              *                     
+   781                                              *                     
+   670                                              *                     
+   558                                              *                     
+   446                                    *         *                     
+   335                                    *         *         *           
+   223                                    *         *         *           
+   112                                    *         *    *    *           
+     0           *    *         *    *    *    *    *    *    *    *    * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    1    5    0    1    57  456   50  +++  186  392   8    15 
+
+2011-05-04 00:27:19,363 (71524) INFO: Script ./numeric_questions_fast.py started Vision Egg 1.2.1 with process id 71524.
+2011-05-04 00:27:20,884 (71524) INFO: Requesting window 1024 x 768 32 bpp (8 8 8 0 RGBA).
+2011-05-04 00:27:21,794 (71524) INFO: OpenGL 2.1 NVIDIA-1.6.26, NVIDIA GeForce 320M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.1)
+2011-05-04 00:27:21,795 (71524) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2011-05-04 00:28:00,628 (71524) WARNING: One or more frames took 34.4 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2011-05-04 00:28:00,629 (71524) INFO: 2174 frames were drawn.
+Mean IFI was 16.70 msec (59.89 fps), longest IFI was 34.44 msec.
+histogram:
+   966                                              *                     
+   858                                              *                     
+   751                                              *                     
+   644                                              *                     
+   537                                              *                     
+   429                                              *                     
+   322                                    *         *         *           
+   215                                    *         *         *           
+   107                                    *         *    *    *           
+     0                     *    *    *    *    *    *    *    *    *    * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    1    1    69  415   50  +++  182  375   2    5  
+
+2011-05-04 00:30:32,619 (71543) INFO: Script ./numeric_questions_fast.py started Vision Egg 1.2.1 with process id 71543.
+2011-05-04 00:30:34,306 (71543) INFO: Requesting window 1024 x 768 32 bpp (8 8 8 0 RGBA).
+2011-05-04 00:30:35,203 (71543) INFO: OpenGL 2.1 NVIDIA-1.6.26, NVIDIA GeForce 320M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.1)
+2011-05-04 00:30:35,204 (71543) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2011-05-04 00:30:47,768 (71543) CRITICAL: Traceback (most recent call last):
+  File "./numeric_questions_fast.py", line 292, in <module>
+    main(argv[1])
+  File "./numeric_questions_fast.py", line 281, in main
+    stim_control.run_trials()
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/cognac/StimController.py", line 326, in run_trials
+    self.vision_egg.go()
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/cognac/SimpleVisionEgg.py", line 103, in go
+    self.presentation.go()
+  File "/Library/Python/2.6/site-packages/visionegg-1.2.1-py2.6-macosx-10.6-universal.egg/VisionEgg/FlowControl.py", line 391, in go
+    doing_transition=0)
+  File "/Library/Python/2.6/site-packages/visionegg-1.2.1-py2.6-macosx-10.6-universal.egg/VisionEgg/FlowControl.py", line 275, in __call_controllers
+    result = controller.during_go_eval()
+  File "/Library/Python/2.6/site-packages/visionegg-1.2.1-py2.6-macosx-10.6-universal.egg/VisionEgg/FlowControl.py", line 1247, in during_go_eval
+    return self.during_go_func(**call_args)
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/cognac/StimController.py", line 344, in update
+    self.state.send(t)
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/cognac/StimController.py", line 365, in state_generator
+    trial.deactivate_events(t)
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/cognac/StimController.py", line 288, in deactivate_events
+    event.deactivate()
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/cognac/StimController.py", line 208, in deactivate
+    self.target.set(on=False)
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/visionegg_cam_capture.py", line 260, in set
+    p.join()
+UnboundLocalError: local variable 'p' referenced before assignment
+
+2011-05-04 00:31:21,384 (71546) INFO: Script ./numeric_questions_fast.py started Vision Egg 1.2.1 with process id 71546.
+2011-05-04 00:31:23,350 (71546) INFO: Requesting window 1024 x 768 32 bpp (8 8 8 0 RGBA).
+2011-05-04 00:31:24,253 (71546) INFO: OpenGL 2.1 NVIDIA-1.6.26, NVIDIA GeForce 320M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.1)
+2011-05-04 00:31:24,254 (71546) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2011-05-04 00:31:26,659 (71546) CRITICAL: Traceback (most recent call last):
+  File "./numeric_questions_fast.py", line 292, in <module>
+    main(argv[1])
+  File "./numeric_questions_fast.py", line 281, in main
+    stim_control.run_trials()
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/cognac/StimController.py", line 326, in run_trials
+    self.vision_egg.go()
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/cognac/SimpleVisionEgg.py", line 103, in go
+    self.presentation.go()
+  File "/Library/Python/2.6/site-packages/visionegg-1.2.1-py2.6-macosx-10.6-universal.egg/VisionEgg/FlowControl.py", line 363, in go
+    doing_transition=1)
+  File "/Library/Python/2.6/site-packages/visionegg-1.2.1-py2.6-macosx-10.6-universal.egg/VisionEgg/FlowControl.py", line 275, in __call_controllers
+    result = controller.during_go_eval()
+  File "/Library/Python/2.6/site-packages/visionegg-1.2.1-py2.6-macosx-10.6-universal.egg/VisionEgg/FlowControl.py", line 1247, in during_go_eval
+    return self.during_go_func(**call_args)
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/cognac/StimController.py", line 344, in update
+    self.state.send(t)
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/cognac/StimController.py", line 367, in state_generator
+    trial.activate_events(t)
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/cognac/StimController.py", line 262, in activate_events
+    event.activate()
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/cognac/StimController.py", line 203, in activate
+    self.target.set(**self.parms)
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/visionegg_cam_capture.py", line 257, in set
+    p.start()
+NameError: global name 'p' is not defined
+
+2011-05-04 00:31:49,546 (71550) INFO: Script ./numeric_questions_fast.py started Vision Egg 1.2.1 with process id 71550.
+2011-05-04 00:31:51,184 (71550) INFO: Requesting window 1024 x 768 32 bpp (8 8 8 0 RGBA).
+2011-05-04 00:31:52,095 (71550) INFO: OpenGL 2.1 NVIDIA-1.6.26, NVIDIA GeForce 320M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.1)
+2011-05-04 00:31:52,096 (71550) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2011-05-04 00:32:46,703 (71550) CRITICAL: Traceback (most recent call last):
+  File "./numeric_questions_fast.py", line 292, in <module>
+    main(argv[1])
+  File "./numeric_questions_fast.py", line 281, in main
+    stim_control.run_trials()
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/cognac/StimController.py", line 326, in run_trials
+    self.vision_egg.go()
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/cognac/SimpleVisionEgg.py", line 103, in go
+    self.presentation.go()
+  File "/Library/Python/2.6/site-packages/visionegg-1.2.1-py2.6-macosx-10.6-universal.egg/VisionEgg/FlowControl.py", line 391, in go
+    doing_transition=0)
+  File "/Library/Python/2.6/site-packages/visionegg-1.2.1-py2.6-macosx-10.6-universal.egg/VisionEgg/FlowControl.py", line 275, in __call_controllers
+    result = controller.during_go_eval()
+  File "/Library/Python/2.6/site-packages/visionegg-1.2.1-py2.6-macosx-10.6-universal.egg/VisionEgg/FlowControl.py", line 1247, in during_go_eval
+    return self.during_go_func(**call_args)
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/cognac/StimController.py", line 344, in update
+    self.state.send(t)
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/cognac/StimController.py", line 365, in state_generator
+    trial.deactivate_events(t)
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/cognac/StimController.py", line 288, in deactivate_events
+    event.deactivate()
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/cognac/StimController.py", line 208, in deactivate
+    self.target.set(on=False)
+  File "/Users/dav/Projects/rtmdsvn/NumericVid/visionegg_cam_capture.py", line 260, in set
+    self.child.join()
+  File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/multiprocessing/process.py", line 119, in join
+    res = self._popen.wait(timeout)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/multiprocessing/forking.py", line 117, in wait
+    return self.poll(0)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/multiprocessing/forking.py", line 106, in poll
+    pid, sts = os.waitpid(self.pid, flag)
+KeyboardInterrupt
+
+2011-05-04 00:41:06,025 (12328) INFO: Script ./numeric_questions_fast.py started Vision Egg 1.2.1 with process id 12328.
+2011-05-04 00:41:08,974 (12328) INFO: Requesting window 1024 x 768 24 bpp (8 8 8 0 RGBA).
+2011-05-04 00:41:09,398 (12328) INFO: OpenGL 2.1 Mesa 7.10, Gallium 0.4 on AMD RS780, X.Org (PyOpenGL 3.0.1b2)
+2011-05-04 00:41:09,400 (12328) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2011-05-04 00:41:09,400 (12328) WARNING: Could not sync buffer swapping to vblank because you are running linux but not known/supported drivers (only nVidia and recent Mesa DRI Radeon currently supported).
+2011-05-04 00:41:45,585 (12328) WARNING: Calculated frames per second was 58.162, while the VISIONEGG_MONITOR_REFRESH_HZ variable is 60.0.
+2011-05-04 00:41:45,586 (12328) WARNING: One or more frames took 66.8 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2011-05-04 00:41:45,589 (12328) INFO: 2091 frames were drawn.
+Mean IFI was 17.19 msec (58.16 fps), longest IFI was 66.80 msec.
+histogram:
+  1729                                              *                     
+  1537                                              *                     
+  1345                                              *                     
+  1153                                              *                     
+   961                                              *                     
+   768                                              *                     
+   576                                              *                     
+   384                                              *                     
+   192                                              *                     
+     0           *         *         *    *    *    *    *    *    *    * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    2    0    1    0    6    9    28  +++   47   10   5    61 
+
+2011-05-04 00:45:21,082 (12383) INFO: Script ./numeric_questions_fast.py started Vision Egg 1.2.1 with process id 12383.
+2011-05-04 00:45:25,285 (12383) INFO: Requesting window 1024 x 768 24 bpp (8 8 8 0 RGBA).
+2011-05-04 00:45:25,723 (12383) INFO: OpenGL 2.1 Mesa 7.10, Gallium 0.4 on AMD RS780, X.Org (PyOpenGL 3.0.1b2)
+2011-05-04 00:45:25,724 (12383) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2011-05-04 00:45:25,725 (12383) WARNING: Could not sync buffer swapping to vblank because you are running linux but not known/supported drivers (only nVidia and recent Mesa DRI Radeon currently supported).
+2011-05-04 00:46:03,929 (12383) WARNING: Calculated frames per second was 54.677, while the VISIONEGG_MONITOR_REFRESH_HZ variable is 60.0.
+2011-05-04 00:46:03,931 (12383) WARNING: One or more frames took 158.9 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2011-05-04 00:46:03,934 (12383) INFO: 2076 frames were drawn.
+Mean IFI was 18.29 msec (54.68 fps), longest IFI was 158.91 msec.
+histogram:
+  1494                                              *                     
+  1328                                              *                     
+  1162                                              *                     
+   996                                              *                     
+   830                                              *                     
+   664                                              *                     
+   498                                              *                     
+   332                                              *                     
+   166                                              *                   * 
+     0                *    *    *    *    *    *    *    *    *    *    * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    2    5    5    5    13   62  +++  136   11   6   170 
+

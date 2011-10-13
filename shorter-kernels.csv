@@ -1,0 +1,127 @@
+Item.code,Value,Description,Format
+ranney66_01,51206,The average annual income of U.S. residents age 25 or older who have a bachelor's degree or higher,$x
+ranney66_02,1.00E+11,The total annual budget of the state government of California,$x
+ranney66_03,82,The percentage of K-12 public school teachers who are female,x%
+ranney66_04,464,The current number of gallons of gasoline consumed in the U.S. per peson each year (including by businesses and industry),x gallons
+ranney66_05,18,"The percentage of inmates in state prisons in the U.S. who serve their entire sentence in prison (i.e., are never paroled)",x%
+ranney66_06,1.6,"The amount of money given by the U.S. government in aid to foreign countries (loans and grants, but not Iraq reconstruction costs), per $1,000 of goods and services produced in the U.S.",x in $1000
+ranney66_07,9.7,The percentage of K-12 students in the U.S. who attend private school,x%
+ranney66_08,46597,The average annual salary of U.S. K-12 public school teachers,$x
+ranney66_09,6.5,The current percentage of deaths in the U.S. that are caused by lung cancer,x%
+ranney66_10,52,The percent decrease in square miles of wetland in the lower 48 U.S. states since 1600,x%
+ranney66_11,50.3,The percentage of U.S. households owning stock either directly or through a mutual fund,x%
+ranney66_12,48,The average life expectancy at birth in Sub-Saharan Africa,x years old
+ranney66_13,13.3,The percentage of the California state budget that is spent on transportation (includes both Caltrans and transportation-related spending by other state agencies),x%
+ranney66_14,42.5,"The percentage of U.S. women age 16 or over who are neither employed nor seeking employment (this is distinct from the unemployment rate, which includes only those seeking employment)",x%
+ranney66_15,17,The percentage of all oil imported into the U.S. that comes from the Persian Gulf region,x%
+ranney66_16,8,The percentage of the 2008 Berkeley city budget that is spent on Health and Human Services,x%
+ranney66_17,96,The percentage of incumbents running for reelection in the U.S. Senate in 2004 who were reelected,x%
+ranney66_18,68,"The percentage of U.C. Berkeley students who receive some form of need-based financial aid (grants, loans, work-study, or other forms of institutionally tracked non-parental aid)",x%
+ranney66_19,652,The number of people currently on death row (awaiting execution) in California,x people
+ranney66_20,39,The percentage of fatal traffic crashes in the U.S. that involve at least one driver whose blood-alcohol content is over the legal limit for the state in which the crash occurred,x%
+ranney66_21,43,The current percentage of U.S. first-time homebuyers who take out zero-down-payment loans,x%
+ranney66_22,420,The number of gallons of gasoline consumed in the U.S. (including industry) per person in 1982,x gallons
+ranney66_23,37172015,The current population of California,x people
+ranney66_24,30.2,The percentage of the California state government's budget that is spent on K-12 education,x%
+ranney66_25,3.3,The current percentage of female deaths in the U.S. that are caused by breast cancer,x%
+ranney66_26,68,The percentage of people arrested by California state or local police who are convicted of the crime they are arrested for,x%
+ranney66_27,24272,The total cost for a California resident to attend U.C. Berkeley in 2007 as an undergraduate living in a University residence hall (including personal expenses),$x
+ranney66_28,8,"The percentage of all money spent on retail goods in the U.S. (such as clothing, furniture, groceries, but not automobiles) spent at stores owned by Wal-Mart, Inc. (i.e., Wal-Mart or Sam's Club stores)",x%
+ranney66_29,23,The percentage of the Berkeley city budget that is spent on police and fire services,x%
+ranney66_30,57.6,The percentage of 18-24 year olds in the U.S. who were registered to vote in the 2004 election,x%
+ranney66_31,20.2,"The number of law enforcement officials killed each year in the line of duty in the U.S. per 100,000 law enforcement officials","x in 100,000"
+ranney66_32,25.5,The percentage of women over the age of 15 in the U.S. who have never been married,x%
+ranney66_33,14.2,The percentage of U.S. residents who changed residences within the last year,x%
+ranney66_34,22,"The percentage of inmates in state prisons in the U.S. who are incarcerated for a drug-related offense (possession, distribution, etc.), with this being their most serious offense",x%
+ranney66_35,20.3,The percentage of the U.S. federal budget that is spent on Social Security,x%
+ranney66_36,27915,The average annual income of U.S. residents age 25 or older who have a high school diploma but have never attended college,$x
+ranney66_37,6207,"The value that $1,000 in 1966 would have today (adjusted for inflation)",$x
+ranney66_38,1196,"The number of registered motor vehicles in the U.S (automobiles, trucks, or motorcycles, personally or commercially owned) per 1,000 licensed drivers",x in 1000
+ranney66_39,3370,The number of people currently on death row (awaiting execution) in the U.S.,x people
+ranney66_40,94,"The average percentile SAT score (1st = worst, 99th = best) of undergraduates admitted to U.C. Berkeley out of high school (excluding transfers from other institutions)",x%
+ranney66_41,38,The percentage of employed Americans who report working over 50 hours per week,x%
+ranney66_42,0.9,The current percentage of children born to never-married women 18-44 who are put up for adoption,x%
+ranney66_43,76094000,The population of the U.S. in 1900,x people
+ranney66_44,2900000,"The average annual salary of professional athletes in the 4 major professional leagues often associated with the U.S. (MLB baseball, NBA basketball, NHL hockey, NFL football)",$x
+ranney66_45,20.6,The percentage of people worldwide who live within 30 km (19.75 miles) of the ocean,x%
+ranney66_46,34,The percentage of births in the U.S. that are from unmarried mothers,x%
+ranney66_47,28,The current percentage of female deaths in the U.S. that are caused by heart disease,x%
+ranney66_48,4.4,The number of pounds of un-recycled trash produced in the U.S. per person per day (including trash produced by businesses and institutions),x pounds
+ranney66_49,25.2,The average age of U.S. women giving birth for the first time,x years old
+ranney66_50,42,The percentage of U.S. homes in which there is at least 1 firearm,x%
+ranney66_51,31.6,"Of undergraduates at UC Berkeley who reported their ethnicity (which is not required), the percentage choosing ""White/Caucasian"" (categories are mutually exclusive, and include an ""other"" option)",x%
+ranney66_52,7,The percentage of prisoners in U.S. state and federal prisons or local jails who are female,x%
+ranney66_53,9.9,The percentage of U.S. households that currently receive federal food stamp benefits,x%
+ranney66_54,6256,"The average annual need-based financial aid received by full time undergraduates at 4-year institutions in the U.S. (grants, loans, work study, etc.; average includes individuals receiving no aid)",$x
+ranney66_55,321000000,The total size of the annual budget for the city of Berkeley,$x
+ranney66_56,12.5,The percentage of the U.S. federal budget that is spent on Medicare,x%
+ranney66_57,54.7,The percentage of U.S. households that have a computer with access to the internet,x%
+ranney66_58,24.3,The average number of minutes it takes an employed U.S. resident to commute to work (one-way) each day,x%
+ranney66_59,840856,The average number of domestic commercial passenger flights per month in the U.S.,x flights
+ranney66_60,173950,The median net worth of U.S. married-couple households that are headed by someone over 65 (net worth is the total value of one's assets minus what one owes),$x
+ranney66_61,98,The percentage of incumbents running for reelection in the U.S. House of Representatives in 2004 who were reelected,x%
+ranney66_62,71.5,The percentage of the combined net worth of all U.S. residents that is owned by its richest 10% of those residents (net worth is the total value of one's assets minus what one owes),$x
+ranney66_63,5.8,"The number of murders each year per 100,000 U.S. residents","x in 100,000"
+ranney66_64,17,The percentage of energy consumed in California that is generated through hydroelectric power (either in California or elsewhere),x%
+ranney66_65,4682,"The number of black males in state or federal prisons or local jails in the U.S. per 100,000 black males (including children) in the U.S.",x in 100
+ranney66_66,45,The percentage of those currently receiving bachelor's degrees in mathematics in the U.S. who are female,x%
+ranney40_01,6500000000,World Population,x people
+ranney40_02,300000000,U.S. Population,x people
+ranney40_03,14,"Annual number of live births per 1,000 U.S. residents",x in 1000
+ranney40_04,315,"Annual number of abortions per 1,000 live births in U.S.",x in 1000
+ranney40_05,4,"Average annual number of legal immigrants per 1,000 U.S. residents",x in 1000
+ranney40_06,5,"Average annual number of legal immigrants per 1,000 Americans over the past 150 years",x in 1000
+ranney40_07,12,Percentage of U.S. residents who are foreign-born,x%
+ranney40_08,67,Percentage of U.S. residents who are non-hispanic whites,x%
+ranney40_09,113000000,Number of U.S. households,x households
+ranney40_10,46250,Median U.S. household income,$x
+ranney40_11,17,Percentage of U.S. earnings earned by the top 1% of earners,x%
+ranney40_12,35,Percentage of U.S. federal individual income tax revenue that comes from the top 1% of earners,x%
+ranney40_14,69,Percentage of U.S. heads of household who own their home (including mortgaged homes),x%
+ranney40_15,12,Percentage of U.S. residents who are over 65,x%
+ranney40_16,28,Percentage of Americans over 25 with a bachelor's degree or higher,x%
+ranney40_17,7,"Number of U.S. residents incarcerated (in jail or prison) per 1,000 U.S. residents",x in 1000
+ranney40_18,274,Ratio of murders committed to prisoners executed in the U.S.,x to 1
+ranney40_19,1.30E+13,Net financial value generated by the U.S. in one year - value of the Gross National Income,$x
+ranney40_20,29,Net financial value generated by the U.S. in one year (the Gross National Income) as a percentage of world Gross National Income,x%
+ranney40_21,48,U.S. military spending as a percentage of world military spending,x%
+ranney40_22,17,Percentage of the world's population living on less than approximately $1 per person per day,x%
+ranney40_23,6,Percentage of the population in Sub-Saharan Africa living with HIV,x%
+ranney40_24,2.70E+12,2006 U.S. federal budget,$x
+ranney40_25,15,"2006 Department of Defense budget as a percentage of the total 2006 U.S. federal budget (excluding emergency funding such as for conflicts in Iraq & Afghanistan, etc.)",x%
+ranney40_26,9.00E+12,U.S. national debt,$x
+ranney40_27,66,Percentage of U.S. residents age 16 or over who are employed either part or full time,x%
+ranney40_28,4.7,2007 U.S. unemployment rate,x%
+ranney40_29,138000,Number of jobs that must be created each month to keep pace with growth in the U.S. workforce,x jobs
+ranney40_30,4.2,Average inflation per year over the past 50 years in the U.S.,x%
+ranney40_31,-19,"Percent change in the annual average price of oil from 1981 to 2005, adjusted for inflation",x%
+ranney40_32,46,"Percentage of Americans who agree that ""God created human beings pretty much in the present form at one time within the last 10,000 years or so""",x%
+ranney40_33,78,Lifetime odds of dying in a motor vehicle accident in the U.S.,1 in x
+ranney40_34,211,Lifetime odds of being murdered in the U.S.,1 in x
+ranney40_35,25,Percentage of the world's carbon dioxide emissions produced by the U.S.,x%
+ranney40_36,31,"Percent change in the amount of carbon dioxide in the atmosphere since 1750 (positive number for increase, negative number for decrease)",x%
+ranney40_37,1.1,Degrees Fahrenheit by which the global average surface temperature rose during the 20th century,x degrees
+ranney40_38,8,Number of the 10 hottest years since 1880 that have occurred in the last 10 years,x years
+ranney40_39,0.77,"Average size of a U.S. household today, compared to the 1950 average",x times as large
+ranney40_40,2.5,"Average size (sq. ft.) of a newly built single-family home, compared to the 1950 average",x times as large
+est01,1,Pounds of coal needed to run a TV for 4.5 hours,x pounds
+est02,19000,Amount of coal used by the average US household in a year,x pounds
+est03,50,Amount of coal carried by US trains as percentage of total freight carried,x%
+est04,79,Average US life expectancy at birth,x years old
+est05,98,Literacy rate of the youth population (ages 15-24) in Mexico (in percent),x%
+est06,192,Average consumption of sugar per person (in grams/day),x grams
+est07,65,Percent of total roads that are paved in the US,x%
+est08,16,Percent of U.S. government spending on health.,x%
+est09,77,Number of cell phones per 100 people in the US,x phones
+est10,25,Percent of Americans that personally do not believe in Darwin's theory of evolution when polled in 2009,x%
+est11,55,Percent of Americans that correctly associate Darwin with his theory of evolution as of 2009,x%
+est12,93,Percent of Americans that celebrated Christmas in 2008,x%
+est13,81,"Percent of Americans that identify with some form of Christian faith(i.e. Catholic, Protestant)",x%
+est14,59,Percent of Americans that have donated to a religious organization in 2008,x%
+est15,96,"percent of former Soviet block countries (including Tajikistan, Kyrgyzstan, and Armenia) that believe in the importance of teaching Russian language and culture to children as of 2008",
+est16,900000000,Number of copies of books sold to date of The Red Book by China's Communist Party leader Mao Tse Tung,x books
+est17,400000000,Number of copies of books from the Harry Potter series sold to date (as of 2008),x books
+est18,234,Number of reported homocides in Baltimore in 2008 (Baltimore has the highest rate of homocides in the United States),x homocides
+est19,75235,"Number of reported crime incidents including motor vehicle thefts, burglary, and homocide in Orange County, California in 2000",x incidents
+est20,10000000,Population of Los Angeles County,x people
+est21,3900000,Number of Los Angeles County residents that speak Spanish,x people
